@@ -37,3 +37,4 @@ hi Comment ctermfg=3
 syntax on
 set mouse=a
 set scrolloff=3
+colorscheme molokai

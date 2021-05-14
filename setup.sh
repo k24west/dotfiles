@@ -11,3 +11,5 @@ for f in .??*; do
 
     ln -snfv ${PWD}/"$f" ~/
 done
+
+git clone https://github.com/tomasr/molokai ${HOME}/.vim
