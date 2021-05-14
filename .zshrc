@@ -1,4 +1,4 @@
-source ~/.bashrc
+#source ~/.bashrc
 
 alias ls='ls -G'
 alias ll='ls -lG'
